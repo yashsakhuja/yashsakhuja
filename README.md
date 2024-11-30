@@ -7,7 +7,7 @@ Data and Insights Analyst | Developer | Storyteller | Sports Technologist
 Welcome to my GitHub corner! Here, you'll find a blend of data magic, sports analytics, and a dash of innovation. I thrive on turning data puzzles into actionable insights and have a knack for crafting compelling data stories that inspire innovation.
 
 # 💫 About Me:
-🌍 I'm based in Reading, United Kingdom<br>🖥️ See my portfolio at https://sakhujayashofficia.wixsite.com/yashsakhuja/blog<br>✉️ You can contact me at yash.sakhuja01@gmail.com<br>🧠 I'm learning Agentic Frameworks<br>🤝 I'm open to collaborating on ML and AI Projects
+🌍 I'm based in Reading, United Kingdom<br>🖥️ See my portfolio at [My Website and Blog](http://sakhujayashofficia.wixsite.com/yashsakhuja)<br>✉️ You can contact me at yash.sakhuja01@gmail.com<br>🧠 I'm learning Agentic Frameworks<br>🤝 I'm open to collaborating on ML and AI Projects
 
 
 ## 🌐 Socials:
