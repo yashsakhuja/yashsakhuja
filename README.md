@@ -9,7 +9,7 @@ Welcome to my GitHub corner! Here, you'll find a blend of data magic, sports ana
 * 🌍  I'm based in Reading, United Kingdom
 * 🖥️  See my portfolio at [My Website and Blog](http://sakhujayashofficia.wixsite.com/yashsakhuja)
 * ✉️  You can contact me at [yash.sakhuja01@gmail.com](mailto:yash.sakhuja01@gmail.com)
-* 🧠  I'm learning Retrieval Augmented Generation (RAG)
+* 🧠  I'm learning Agentic Frameworks
 * 🤝  I'm open to collaborating on Machine Learning Projects
 
 ### Skills
