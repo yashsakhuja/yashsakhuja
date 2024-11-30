@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yash Sakhuja
 ====================================================================================================================================
 
-Data and Insights Analyst | Developer | Storyteller | Sports Enthusiast
+Data and Insights Analyst | Developer | Storyteller | Sports Technologist
 -----------------------------------------------------------------------
 
 Welcome to my GitHub corner! Here, you'll find a blend of data magic, sports analytics, and a dash of innovation. I thrive on turning data puzzles into actionable insights and have a knack for crafting compelling data stories that inspire innovation.
