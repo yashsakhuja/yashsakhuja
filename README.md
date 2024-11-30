@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yash Sakhuja
-
+<h1 align="center">Hi 👋, I'm Yash Sakhuja</h1>
 <h3 align="center">Data and Insights Analyst | Developer | Storyteller | Sports Technologist</h3>
 
 <p align="left"> <a href="https://twitter.com/sakhuja_yash" target="blank"><img src="https://img.shields.io/twitter/follow/sakhuja_yash?logo=twitter&style=for-the-badge" alt="sakhuja_yash" /></a> </p>
